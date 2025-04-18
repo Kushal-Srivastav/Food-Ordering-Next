@@ -12,3 +12,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+// layout works as a wrapper for all the pages in the app
